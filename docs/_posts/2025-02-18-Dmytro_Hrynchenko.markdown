@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating a new blog"
+title:  "Dima's Blog"
 date:   2025-02-18 14:58:15 +0100
 categories: jekyll update
 ---
